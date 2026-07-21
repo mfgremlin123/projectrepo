@@ -1,1 +1,1 @@
-Application mode: development
+Application mode: testing
