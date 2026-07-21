@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Application mode:production
 
+=======
+Application mode: testing
+>>>>>>> conflict-feature
