@@ -1,1 +1,2 @@
-Application mode: development
+Application mode:production
+
